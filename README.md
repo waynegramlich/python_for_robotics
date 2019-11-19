@@ -2,9 +2,9 @@
 
 HBRC Presentation
 
-* Wayne Gramlich
-* November 20, 2019
-* Talk URL:https://github.com/waynegramlich/python_for_robotics
+* Speaker: Wayne Gramlich
+* Presentation Date: November 20, 2019
+* Talk URL: https://github.com/waynegramlich/python_for_robotics
 
 ## Abstract
 
@@ -418,7 +418,7 @@ Some wrap up comments:
 Python 3 has lots of interesting goodies, so let's build some
 interesting Python robots!!!
 
-* Talk URL:https://github.com/waynegramlich/python_for_robotics
+* Talk URL: https://github.com/waynegramlich/python_for_robotics
 
 ## Questions?
 
